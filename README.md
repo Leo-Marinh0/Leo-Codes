@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo
-- 👀 I’m interested in Web and Mobile Development focused in back-end
+- 👀 I’m interested in Web and Mobile Development.
 - 🌱 I’m currently learning Front-End technologies at EBAC.
 - 📫 How to reach me: leo.ccodes@gmail.com
 
