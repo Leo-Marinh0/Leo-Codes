@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo
 - 👀 I’m interested in Web and Mobile Development focused in back-end
-- 🌱 I’m currently learning REACT and developing a dashboard in the company that i work with PHP and JS
+- 🌱 I’m currently learning Front-End technologies at EBAC.
 - 📫 How to reach me: leo.ccodes@gmail.com
 
 <!---
