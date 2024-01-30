@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leo
-- 🌱 I’m currently learning Front-End at EBAC.
+- 🌱 PHP | NETXJS | NODEJS | SQL | CHATBOT
 - 📫 How to reach me: leo.ccodes@gmail.com
 
 <!---
